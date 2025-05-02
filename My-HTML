@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First HTML Page</title>
+  </head>
+  <body>
+    <h1>Hello, GitHub Pages!</h1>
+    <p>Welcome to my project.</p>
+  </body>
+</html>
